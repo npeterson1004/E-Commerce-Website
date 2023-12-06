@@ -1,0 +1,17 @@
+{
+    "name": "tubul/vendor",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tubul\\Vendor\\": "C:\\xampp\\htdocs\\nosqlwebsite"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathan Peterson"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.11"
+    }
+}
